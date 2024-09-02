@@ -1,0 +1,28 @@
+
+
+
+Requerimentos funcionales
+
+1. Agregar tareas:
+    o Permitir agregar nuevas tareas con la siguiente información:
+    ▪ Descripción de la tarea
+    ▪ Fecha límite
+2. Listar tareas:
+    o Mostrar un listado de todas las tareas registradas.
+3. Marcar tareas como completadas:
+    o Permitir marcar una tarea como completada.
+4. Eliminar tareas:
+    o Permitir eliminar una tarea de la lista.
+
+
+Requerimientos técnicos:
+
+1. Uso de clases y objetos:
+    o Crea una clase para representar las tareas.
+2. Manejo de colecciones:
+    o Usa una lista genérica (List) para almacenar las tareas.
+3. Interacción con el usuario:
+    o Implementa un menú de opciones para 
+    interactuar con el usuario a través de
+    la consola.
+    
